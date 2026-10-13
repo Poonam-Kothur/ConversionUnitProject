@@ -1,0 +1,36 @@
+namespace UnitConversion.Domain.Enums;
+
+public enum Unit
+{
+    Millimeter = 1,
+    Centimeter = 2,
+    Meter = 3,
+    Kilometer = 4,
+    Inch = 5,
+    Foot = 6,
+    Yard = 7,
+    Mile = 8,
+    Milligram = 9,
+    Gram = 10,
+    Kilogram = 11,
+    MetricTon = 12,
+    Ounce = 13,
+    Pound = 14,
+    Celsius = 15,
+    Fahrenheit = 16,
+    Kelvin = 17,
+    MetersPerSecond = 18,
+    KilometersPerHour = 19,
+    MilesPerHour = 20,
+    FeetPerSecond = 21,
+    Millisecond = 22,
+    Second = 23,
+    Minute = 24,
+    Hour = 25,
+    Day = 26,
+    Week = 27,
+    Hertz = 28,
+    Kilohertz = 29,
+    Megahertz = 30,
+    Gigahertz = 31
+}

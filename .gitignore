@@ -1,0 +1,33 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Pp]ublish/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test output
+[Tt]est[Rr]esults/
+
+# IDE and editor files
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local secrets and environment-specific settings
+.env
+.env.*
+!.env.example
+*.secrets.json
+appsettings.*.local.json
+
+# NuGet packages
+*.nupkg
+*.snupkg
